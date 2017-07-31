@@ -1,0 +1,24 @@
+{
+  "name": "angular2",
+  "version": "1.0.0",
+  "description": "mean app with angular2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appledan/mean-app-wth-angular2.git"
+  },
+  "author": "daniel akpu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appledan/mean-app-wth-angular2/issues"
+  },
+  "homepage": "https://github.com/appledan/mean-app-wth-angular2#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+  
+}
